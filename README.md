@@ -1,4 +1,4 @@
-# Snake-Game
+## Snake-Game
 Snake Game using C++
 
 |"Compiling Instructions"|
